@@ -167,7 +167,7 @@ This project is free and open source. Sponsors help keep it maintained and growi
 
 [**Become a Sponsor**](https://github.com/sponsors/proyecto26) | [Sponsorship Program](https://proyecto26.com/sponsors/)
 
-## Contribution 🤝 
+## Contribution 🤝
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
